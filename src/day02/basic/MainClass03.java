@@ -5,8 +5,8 @@ public class MainClass03 {
 		char ch1 ='A';
 		System.out.println("char형 변수에 저장된 문자:" + ch1);
 		
-		char ch2 ='金';
-		char ch3 ='뿔';
+		/*char c2 ='金';
+		char c3 ='뿔';*/
 		
 		int num = ch1;//
 		System.out.println("대문자 A에 해당하는 숫자코드 :"+num);
