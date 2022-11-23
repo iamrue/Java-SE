@@ -14,7 +14,7 @@ package day02.basic;
 public class MainClass04 {
 	public static void main(String[] args) {
 		//정수형 변수 선언과 동시에 값 대입하기
-		byte iByte =10;
+		byte iByte =10;  
 		short iShort=100;
 		int iInt = 1000;
 		long iLong = 10000;
