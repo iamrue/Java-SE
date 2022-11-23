@@ -11,3 +11,9 @@ public static void main(String[] args) {
 	}
 }
 }
+
+// 숙제 이 문제 분석
+// for 반복문 연습 
+
+
+// 
