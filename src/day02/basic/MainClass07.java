@@ -11,9 +11,23 @@ package day02.basic;
 
 public class MainClass07 {
 	public static void main(String [] args) {
+		
 		// 변수 선언과 동시에 값 대입하기
 		String str ="안녕하세요.";
 		System.out.println("str:"+str);
+		
+		/*
+		 * hello
+		 * 01234 => 인덱스 번호 (단순한 문자 배열 순서)
+		 * */
+		String hello ="hello";
+		System.out.println("1번 인덱스:"+ hello.charAt(4));
+		String addr = "서울 특별시 서대문구 신촌";
+		boolean isContain = addr.contains("특별시");
+		if(isContain) {
+			System.out.println("addr에는 특별시 라는 문자열이 있어요!");
+			
+		}
 		
 		
 	}
