@@ -32,9 +32,6 @@ public class Mainclass01 {
 			count++;
 			if(count ==100)isRun =false; 
 		}
-		while()
 		
 		}
 	}
-
-}

@@ -18,7 +18,7 @@ public class MainClass04 {
 		result = !false;
 		System.out.println("!:"+result);
 		
-		if(10>20 ||(5 ==4))){
+		if(10>20||5==4){
 			
 			System.out.println("조건 중 하나이상 treu입니다.");
 		}
